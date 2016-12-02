@@ -17,6 +17,7 @@ var config = {
 		"102238": "儿童游戏"
 	},
 	space: " ",
+	colon: "：",
 	save_path: "./data1202/"
 }
 module.exports = config;
