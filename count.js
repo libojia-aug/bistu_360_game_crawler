@@ -41,8 +41,8 @@ function readDirFile(readdir){
 	})
 }
 function start() {
-	// readDirFile('./data1024/');
-	readDirFile('./data1202/');
+	readDirFile('./data1024/');
+	// readDirFile('./data1202/');
 }
 
 start();
